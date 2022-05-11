@@ -1,0 +1,6 @@
+export const baseurl = "https://www.googleapis.com/"
+export const getbooks = "books/v1/volumes"
+export const backendurl = "https://travelio-test.herokuapp.com/"
+export const pathuri = "api/v1/"
+export const wishlisturi = "wishlist/"
+export const favoriteuri = "favorite/"
